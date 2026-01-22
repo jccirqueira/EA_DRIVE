@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
   "name": "EA_DRIVE - Proposal Control System",
   "description": "A professional, robust, and scalable proposal control system (ERP/CRM) for Drivetech, featuring dashboards, Kanban boards, and advanced reporting with Supabase integration.",
   "requestFramePermissions": [
     "camera"
   ]
+=======
+{
+  "name": "EA_DRIVE - Proposal Control System",
+  "description": "A professional, robust, and scalable proposal control system (ERP/CRM) for Drivetech, featuring dashboards, Kanban boards, and advanced reporting with Supabase integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+>>>>>>> 8009fd79e468f0245be6023547314a754b76052c
 }

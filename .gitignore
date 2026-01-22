@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 node_modules
 dist
 .env
 .DS_Store
+=======
+
+node_modules
+dist
+.env
+.DS_Store
+>>>>>>> 8009fd79e468f0245be6023547314a754b76052c

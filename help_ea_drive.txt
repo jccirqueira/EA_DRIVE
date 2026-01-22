@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ================================================================================
 EA_DRIVE - MANUAL DO USUÁRIO E GUIA DE AJUDA
@@ -96,3 +97,103 @@ Onde você ajusta o sistema ao seu gosto.
 DICA: O EA_DRIVE salva quase tudo automaticamente no seu navegador, 
 mas sempre lembre de clicar em "Salvar Alterações" no formulário de propostas!
 ================================================================================
+=======
+
+================================================================================
+EA_DRIVE - MANUAL DO USUÁRIO E GUIA DE AJUDA
+================================================================================
+
+Bem-vindo ao EA_DRIVE! Este manual foi criado para ajudar você a entender cada 
+detalhe desta aplicação de forma simples e direta. O objetivo do sistema é 
+organizar e controlar todas as propostas técnicas e comerciais da Drivetech.
+
+--------------------------------------------------------------------------------
+1. DASHBOARD (PAINEL DE CONTROLE)
+--------------------------------------------------------------------------------
+Esta é a sua "página inicial". Pense nela como o painel de um carro que mostra 
+as informações mais importantes de uma só vez.
+
+* Cartões de Resumo: No topo, você verá valores em reais e números. 
+  - Pipeline Total: Soma de tudo o que está em negociação.
+  - Volume Fechado: Tudo o que já virou venda de fato.
+  - Taxa de Conversão: De cada 10 propostas, quantas estamos fechando?
+* Gráfico de Evolução: Mostra se estamos criando mais ou menos propostas 
+  ao longo dos meses.
+* Gráficos de Status e Projetos: Bolas coloridas que mostram rapidamente 
+  se temos muitos projetos "Pausados" ou qual tipo de produto (ex: Eletrocentro) 
+  está saindo mais.
+* Log de Atividades: Uma lista do lado direito que mostra "quem fez o quê" 
+  recentemente. É ótimo para saber se alguém criou ou deletou algo hoje.
+
+--------------------------------------------------------------------------------
+2. PROPOSTAS (A LISTA GERAL)
+--------------------------------------------------------------------------------
+Aqui é onde ficam guardadas todas as fichas das propostas. É uma tabela 
+organizada com as informações principais.
+
+* Buscar e Filtrar: No topo, você pode digitar o nome do cliente ou o número 
+  da DVT para achar uma proposta rápido. Você também pode filtrar por 
+  status (ex: ver só as "Enviadas").
+* Botão "Nova Proposta": Abre um formulário para cadastrar um novo trabalho.
+* Coluna Checklist do Gerente: Mostra se a proposta passou pela revisão final 
+  do gerente ("Sim" ou "Não"). Se estiver "Pendente", significa que ainda não 
+  foi enviada ao cliente.
+* Ações: No final de cada linha, você verá ícones:
+  - Folha com código: Abre o histórico de revisões.
+  - Lápis: Abre para editar os dados.
+  - Lixeira: Apaga a proposta (apenas para administradores).
+
+--------------------------------------------------------------------------------
+3. FLUXO (O QUADRO KANBAN)
+--------------------------------------------------------------------------------
+Esta página é visual. Imagine um quadro na parede com colunas de papel "Post-it".
+
+* Arrastar e Soltar: Você pode clicar em um cartão de proposta e arrastá-lo 
+  para outra coluna quando o status mudar.
+* Mudança Automática: Ao arrastar uma proposta para a coluna "Enviada", 
+  o sistema abrirá automaticamente uma pergunta: "Checklist do Gerente - 
+  A proposta está pronta para envio?". Você deve confirmar se está tudo certo.
+* Somatórios: No topo de cada coluna, você vê o valor total de dinheiro 
+  parado naquela etapa.
+
+--------------------------------------------------------------------------------
+4. O FORMULÁRIO DE PROPOSTA (O MODAL)
+--------------------------------------------------------------------------------
+Quando você clica em "Editar" ou "Nova Proposta", abre uma janela com 3 abas:
+
+* Aba Dados: Onde você preenche Cliente, Valor, Datas e Responsáveis.
+  - DVT e Revisão: O número do projeto e a versão dele.
+  - Valores: O sistema separa o valor "Estimado" (interno) do "Enviado" (final).
+  - Análise de Perda: Se você marcar que a proposta foi "Perdida", o sistema 
+    pedirá para você dizer quem ganhou a venda e o porquê.
+* Aba Revisões: Toda vez que o projeto muda, você registra uma "Nova Revisão". 
+  Isso cria uma linha do tempo mostrando como o projeto evoluiu.
+* Aba Histórico Geral: Mostra todas as vezes que alguém alterou essa proposta.
+
+--------------------------------------------------------------------------------
+5. RELATÓRIOS
+--------------------------------------------------------------------------------
+Ferramenta para quem precisa de dados para reuniões ou diretoria.
+
+* Filtros Estratégicos: Escolha um período de datas ou um consultor específico.
+* Gráfico de Perdas: Mostra por que estamos perdendo vendas (Preço? Prazo?).
+* Exportar: Você pode baixar as informações em formato CSV (Excel) ou PDF.
+* Coluna Checklist: Também aparece aqui para garantir que o relatório mostre 
+  se as propostas enviadas foram conferidas.
+
+--------------------------------------------------------------------------------
+6. CONFIGURAÇÕES
+--------------------------------------------------------------------------------
+Onde você ajusta o sistema ao seu gosto.
+
+* Perfil: Mude sua foto e sua senha.
+* Sistema: 
+  - Meta de SLA: Defina qual o percentual de entrega no prazo que a equipe busca.
+  - E-mails de Alerta: Cadastre os e-mails que devem receber avisos.
+* Gestão de Usuários: (Apenas Admins) Cadastre novos colegas.
+
+================================================================================
+DICA: O EA_DRIVE salva quase tudo automaticamente no seu navegador, 
+mas sempre lembre de clicar em "Salvar Alterações" no formulário de propostas!
+================================================================================
+>>>>>>> 8009fd79e468f0245be6023547314a754b76052c
